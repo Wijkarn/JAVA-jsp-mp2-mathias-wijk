@@ -1,0 +1,29 @@
+p{
+	padding:0;
+	margin:15px 0 0;
+	margin-left:10px;
+}
+input{
+	margin-bottom:5px;
+	margin-left:10px;
+}
+body{
+	background-color: purple;
+}
+form, .center{
+	width:200px;
+	padding:0;
+	margin:20vh 0 0 45%;
+}
+div.center{
+	margin:10vh 0 0 45%;
+	background-color:white;
+	border:1px solid black;
+}
+form{
+	background-color:white;
+	border:1px solid black;
+}
+h1.center{
+	text-align:center;
+}
